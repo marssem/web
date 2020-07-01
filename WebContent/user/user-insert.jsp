@@ -21,7 +21,6 @@
 		var id = document.getElementById('id').value;
 		var str = 'num: '+num+', name: '+name+', id: '+id;
 		window.alert(str);
-	
 	}
 </script>
 </body>

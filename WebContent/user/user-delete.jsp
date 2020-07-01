@@ -14,3 +14,6 @@ for(String num:nums){
 	ps.executeUpdate();
 }
 %>
+<script>
+	location.href="/web/user/user-list.jsp"
+</script>
